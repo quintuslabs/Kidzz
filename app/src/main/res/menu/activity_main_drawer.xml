@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_48px"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_drawing"
+            android:icon="@drawable/ic_palette_black_24dp"
+            android:title="Drawing" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_slide_24dp"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_multi_table"
+            android:icon="@drawable/ic_backspace_black_24dp"
+            android:title="Multiplication Table" />
+
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/game"
+            android:title="Game" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_contact_phone_black_24dp"
+            android:title="Contact Us" />
+
+    </group>
+
+    <item android:title=" ">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>

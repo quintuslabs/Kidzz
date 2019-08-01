@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  * Kidzz
+  * https://github.com/quintuslabs/Kidzz
+  * Created on 25-feb-2019.
+  * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+  -->
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imagesilde"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  * Kidzz
+  * https://github.com/quintuslabs/Kidzz
+  * Created on 25-feb-2019.
+  * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:id="@+id/num"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginEnd="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_bg"
+            android:digits="0123456789"
+            android:gravity="center"
+            android:hint="@string/Enter_number"
+            android:inputType="number"
+            android:maxLength="3"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_bg"
+        android:imeOptions="actionDone"
+        android:text="@string/calculate"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+    <!--android:onClick="submitNumber"-->
+
+
+    <TextView
+        android:id="@+id/printArea"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_bg"
+            android:text="@string/clear"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,159 @@
+<!--
+  * Kidzz
+  * https://github.com/quintuslabs/Kidzz
+  * Created on 25-feb-2019.
+  * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+  -->
+<resources>
+    <string name="app_name">Kidzz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_view_details">ViewDetailsActivity</string>
+
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="opacity">Opacity</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="acopy">Aa</string>
+    <string name="bcopy">Bb</string>
+    <string name="ccopy">Cc</string>
+    <string name="dcopy">Dd</string>
+    <string name="ecopy">Ee</string>
+    <string name="fcopy">Ff</string>
+    <string name="icopy">Ii</string>
+    <string name="gcopy">Gg</string>
+    <string name="hcopy">Hh</string>
+    <string name="jcopy">Jj</string>
+    <string name="Kcopy">Kk</string>
+    <string name="lcopy">Ll</string>
+    <string name="mcopy">Mm</string>
+    <string name="ncopy">Nn</string>
+    <string name="ocopy">Oo</string>
+    <string name="pcopy">Pp</string>
+    <string name="qcopy">Qq</string>
+    <string name="rcopy">Rr</string>
+    <string name="scopy">Ss</string>
+    <string name="tcopy">Tt</string>
+    <string name="ucopy">Uu</string>
+    <string name="vcopy">Vv</string>
+    <string name="wcopy">Ww</string>
+    <string name="xcopy">Xx</string>
+    <string name="ycopy">Yy</string>
+    <string name="zcopy">Zz</string>
+    <string name="apple">Apple</string>
+    <string name="ant">Ant</string>
+    <string name="aeroplane">Aeroplane</string>
+    <string name="ball">Ball</string>
+    <string name="balloon">Balloon</string>
+    <string name="bear">Bear</string>
+    <string name="cat">Cat</string>
+    <string name="chik">Chik</string>
+    <string name="cow">Cow</string>
+    <string name="dog">Dog</string>
+    <string name="dolphin">Dolphin</string>
+    <string name="donkey">Donkey</string>
+    <string name="elephant">Elephant</string>
+    <string name="egg">Egg</string>
+    <string name="envelope">Envelope</string>
+    <string name="flower">Flower</string>
+    <string name="frog">Frog</string>
+    <string name="fox">Fox</string>
+    <string name="goat">Goat</string>
+    <string name="grasshopper">Grasshopper</string>
+    <string name="grass">Grass</string>
+    <string name="horse">Horse</string>
+    <string name="house">House</string>
+    <string name="hippo">Hippo</string>
+    <string name="ink">Ink</string>
+    <string name="injection">Injection</string>
+    <string name="insect">Insect</string>
+    <string name="jacket">Jacket</string>
+    <string name="jar">Jar</string>
+    <string name="juice">Juice</string>
+    <string name="kite">Kite</string>
+    <string name="kettle">Kettle</string>
+    <string name="key">Key</string>
+    <string name="leaf">Leaf</string>
+    <string name="lion">Lion</string>
+    <string name="lamp">Lamp</string>
+    <string name="mouse">Mouse</string>
+    <string name="moon">Moon</string>
+    <string name="map">Map</string>
+    <string name="orange">Orange</string>
+    <string name="octopus">Octopus</string>
+    <string name="owl">Owl</string>
+    <string name="pencil">Pencil</string>
+    <string name="penguin">Penguin</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="queen">Queen</string>
+    <string name="queue">Queue</string>
+    <string name="quail">Quail</string>
+    <string name="rainbow">Rainbow</string>
+    <string name="ring">Ring</string>
+    <string name="road">Road</string>
+    <string name="sun">Sun</string>
+    <string name="ship">Ship</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="tiger">Tiger</string>
+    <string name="train">Train</string>
+    <string name="turtle">Turtle</string>
+    <string name="umbrella">Umbrella</string>
+    <string name="unicorn">Unicorn</string>
+    <string name="uniform">Uniform</string>
+    <string name="van">Van</string>
+    <string name="vase">Vase</string>
+    <string name="violin">Violin</string>
+    <string name="watch">Watch</string>
+    <string name="watermelon">Watermelon</string>
+    <string name="xmas">X-mas</string>
+    <string name="xylophone">Xylophone</string>
+    <string name="xray">X-ray</string>
+    <string name="yacht">Yacht</string>
+    <string name="yarn">Yarn</string>
+    <string name="yellow">Yellow</string>
+    <string name="nest">Nest</string>
+    <string name="net">Net</string>
+    <string name="nail">Nail</string>
+    <string name="zebra">Zebra</string>
+    <string name="zoo">Zoo</string>
+    <string name="zip">Zip</string>
+    <string name="water">Water</string>
+    <string name="exit">Exit</string>
+    <string name="credits">Credits</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="hidden_text">HiddenText</string>
+    <string name="Enter_number">Enter Number</string>
+    <string name="err_msg">Please Enter A Number</string>
+
+
+    <string name="store_name">PLUTONIC INNOVATIONS</string>
+    <string name="website">www.plutonic.in</string>
+    <string name="email">santoshnet2016@gmail.com</string>
+    <string name="phone_no">+91-9778178337</string>
+    <string name="address">Banglore</string>
+
+    <string name="share_app_link">http://www51.zippyshare.com/d/fiATRF5P/19055/kidzz.apk</string>
+
+    <string-array name="type">
+        <item>CLICK HERE TO CHOOSE...</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a237e</color>
+    <color name="colorPrimaryDark">#000051</color>
+    <color name="colorPrimaryVeryLight">#88abc9</color>
+    <color name="colorAccent">#0E2A44</color>
+    <color name="logocolor">#37B2C4</color>
+    <color name="blue">#0101df</color>
+    <color name="lightblue">#0000ff</color>
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="teal_050">#e0f2f1</color> <!-- Use with black text -->
+    <color name="teal_100">#b2dfdb</color> <!-- Use with black text -->
+    <color name="teal_200">#80cbc4</color> <!-- Use with black text -->
+    <color name="teal_300">#4db6ac</color> <!-- Use with black text -->
+    <color name="teal_400">#26a69a</color> <!-- Use with black text -->
+    <color name="teal_500">#009688</color> <!-- Use with white text -->
+    <color name="teal_600">#00897b</color> <!-- Use with white text -->
+    <color name="teal_700">#00796b</color> <!-- Use with white text -->
+    <color name="teal_800">#00695c</color> <!-- Use with white text -->
+    <color name="teal_900">#004d40</color> <!-- Use with white text -->
+    <color name="teal_a100">#a7ffeb</color> <!-- Use with black text -->
+    <color name="teal_a200">#64ffda</color> <!-- Use with black text -->
+    <color name="teal_a400">#1de9b6</color> <!-- Use with black text -->
+    <color name="teal_a700">#00bfa5</color> <!-- Use with black text -->
+
+    <color name="colorPrimaryLight">#263f56</color>
+    <color name="colorAccentLight">#263f56</color>
+    <color name="sky">#58faf4</color>
+
+    <color name="button">#0F4DA8</color>
+
+
+    <color name="activity_background">#FBFDFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="footer_background">#ced4d9</color>
+    <color name="tab_text">#999999</color>
+    <color name="selected_contact">#AA0E2A44</color>
+    <color name="button_disabled">#44000000</color>
+
+    <color name="circular_progress_default_progress">#66CDAA</color>
+    <color name="circular_progress_default_title">#39434F</color>
+    <color name="circular_progress_default_background">#51A488</color>
+    <color name="circular_progress_default_subtitle">#D451D1</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+
+    <color name="color_grey">#d3d3d3</color>
+
+    <color name="background_chat_color">#f5f6f5</color>
+
+    <color name="divider_color">#e0e0e0</color>
+    <color name="selected_list_item_color">#e0e0e0</color>
+
+    <color name="random_color_1">#ff9500</color>
+    <color name="random_color_2">#007aff</color>
+    <color name="random_color_3">#ff0091</color>
+    <color name="random_color_4">#4cd964</color>
+    <color name="random_color_5">#c3c1f2</color>
+    <color name="random_color_6">#a727a5</color>
+    <color name="random_color_7">#77a6d0</color>
+    <color name="random_color_8">#d0021b</color>
+    <color name="random_color_9">#166642</color>
+    <color name="random_color_10">#bdbdbd</color>
+
+    <color name="color_primary">@color/white</color>
+    <color name="color_primary_dark">#d0d0d0</color>
+    <color name="color_accent">@color/color_green_qb</color>
+
+    <color name="background_app_color">#ffffff</color>
+
+    <color name="color_blue_qb">#046ad0</color>
+    <color name="color_green_qb">#4ad24d</color>
+    <color name="color_username_rectangle">#99000000</color>
+
+    <color name="text_color_primary">#212121</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_light_grey">#dedede</color>
+    <color name="text_color_medium_grey">#b1b1b1</color>
+    <color name="text_color_medium_dark_grey">#747474</color>
+    <color name="text_color_dark_grey">#6e6e6e</color>
+    <color name="text_color_green">@color/color_green_qb</color>
+
+    <color name="ftb_main_color">#4BD7BF</color>
+    <color name="ftb_selected_dot_color">#5E5B95</color>
+</resources>
